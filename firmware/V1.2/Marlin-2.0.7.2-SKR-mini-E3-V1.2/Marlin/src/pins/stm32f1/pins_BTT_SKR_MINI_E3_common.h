@@ -96,7 +96,7 @@
 #ifdef SKR_MINI_E3_V2
   #define FAN_PIN                           PC6
 #else
-  #define FAN_PIN                           PA8   // "FAN0"
+  #define FAN_HOTEND_PIN                    PA8   // "FAN0"
 #endif
 
 //
